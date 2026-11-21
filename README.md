@@ -30,9 +30,10 @@ Auxjohnny also includes supporting auction, vendor, loot, disenchant, and export
 
 WorBags provides unified bag and bank windows with gamepad navigation, sorting, list-based organization, and inventory transfers. Its planned guild role is to use shared Auxjohnny lists to help members find, deposit, withdraw, and organize trade items consistently. Inventory sharing should always be opt-in and limited to the characters or item categories a member chooses.
 
-![WorBags inventory window](./WorBags.jpg)
-
-![WorBags bank sorting](./worbags_bank_sorting.png)
+<p>
+  <img src="./worbags_bank_sorting.png" alt="WorBags bank sorting" width="48%" align="top">
+  <img src="./WorBags.jpg" alt="WorBags inventory window" width="30%" align="top">
+</p>
 
 ## MailBook
 
